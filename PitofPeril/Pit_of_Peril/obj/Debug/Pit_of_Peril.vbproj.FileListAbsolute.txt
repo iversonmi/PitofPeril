@@ -1,0 +1,10 @@
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\bin\Debug\Pit_of_Peril.exe.config
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\bin\Debug\Pit_of_Peril.exe
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\bin\Debug\Pit_of_Peril.pdb
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\bin\Debug\Pit_of_Peril.xml
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\obj\Debug\Pit_of_Peril.PitofPeril.resources
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\obj\Debug\Pit_of_Peril.Resources.resources
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\obj\Debug\Pit_of_Peril.vbproj.GenerateResource.Cache
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\obj\Debug\Pit_of_Peril.exe
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\obj\Debug\Pit_of_Peril.xml
+H:\Visual Studio 2013\Projects\Pit_of_Peril\Pit_of_Peril\obj\Debug\Pit_of_Peril.pdb
